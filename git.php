@@ -1,5 +1,7 @@
 <?php
-echo "Hello"
+echo "Hello";
 echo"I JUST UPDATE THIS CODE";
-$name=khizer;
+$name="khizer";
+
+$name= "hello";
 ?>
